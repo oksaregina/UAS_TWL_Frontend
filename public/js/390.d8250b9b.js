@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_dashboard"]=self["webpackChunkvue_dashboard"]||[]).push([[390],{2390:function(e,a,n){n.r(a),n.d(a,{default:function(){return l}});var s=n(6252);const t=(0,s._)("main",null,[(0,s._)("div",{class:"home-container"},[(0,s._)("h3",{class:"home-title"},"WELCOME TO"),(0,s._)("h4",{class:"home-title"},"Website Data Mahasiswa")])],-1),r=[t];function u(e,a,n,t,u,o){return(0,s.wg)(),(0,s.iD)("div",null,r)}var o={name:"YourComponentName"},i=n(3744);const c=(0,i.Z)(o,[["render",u]]);var l=c}}]);
+//# sourceMappingURL=390.d8250b9b.js.map
